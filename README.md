@@ -22,3 +22,5 @@ index -> routers -> controllers -> models
 Models, Routers, Controllers folders and main file
 
 middellware..
+
+#This requires a knowledge about Thunderstorm or Postman and Mangodb cluster creation.
